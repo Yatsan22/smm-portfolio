@@ -1,0 +1,2 @@
+{ "name": "smm-portfolio", "version": "1.0.0", "private": true, "type": "module", "description": "Interactive SMM portfolio — Anastasiia Riabchyi",
+  "scripts": { "dev": "npx --yes serve .", "check": "node scripts/check-assets.mjs" } }
